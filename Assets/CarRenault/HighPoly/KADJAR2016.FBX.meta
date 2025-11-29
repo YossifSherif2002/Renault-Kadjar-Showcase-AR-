@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: c49682abbd841d540a9f782e0f63a1aa
+timeCreated: 1457570930
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box013
+    100010: Box014
+    100012: Box015
+    100014: Box016
+    100016: Box018
+    100018: Box019
+    100020: Box020
+    100022: Box021
+    100024: Brake Disc
+    100026: Brake Disc001
+    100028: Brake Disc002
+    100030: Brake Disc003
+    100032: Caliper
+    100034: Caliper001
+    100036: Cylinder001
+    100038: Cylinder002
+    100040: Cylinder003
+    100042: Cylinder004
+    100044: Cylinder005
+    100046: Cylinder006
+    100048: Cylinder007
+    100050: Cylinder008
+    100052: Cylinder009
+    100054: Cylinder011
+    100056: Cylinder012
+    100058: Cylinder013
+    100060: Cylinder014
+    100062: Cylinder016
+    100064: Cylinder017
+    100066: Cylinder018
+    100068: Cylinder019
+    100070: Fog Lights
+    100072: Front Bumper
+    100074: Front Diffuser
+    100076: Front Fenders
+    100078: Front Grill
+    100080: Front Logo
+    100082: Front Sub Grills
+    100084: Fuel Cap
+    100086: Grills Back
+    100088: Group001
+    100090: Group004
+    100092: Group005
+    100094: Group006
+    100096: Headlight Glasses
+    100098: Headlight Interior_1
+    100100: Headlight Interior_2
+    100102: Hood
+    100104: //RootNode
+    100106: Line001
+    100108: Mudguards
+    100110: Object002
+    100112: Object003
+    100114: Object003_MeshPart0
+    100116: Object003_MeshPart1
+    100118: Object003_MeshPart2
+    100120: Object004
+    100122: Object009
+    100124: Object011
+    100126: Object012
+    100128: Object015
+    100130: Object016
+    100132: Object019
+    100134: Object020
+    100136: Object021
+    100138: Object023
+    100140: Object024
+    100142: Object030
+    100144: Object031
+    100146: Object032
+    100148: Object033
+    100150: Plane001
+    100152: Plane002
+    100154: Plane003
+    100156: Plane004
+    100158: Rear Bumper
+    100160: Rear Bumper Lights
+    100162: Rear Fenders
+    100164: Rim
+    100166: Rim Logo
+    100168: Rim Logo001
+    100170: Rim Logo002
+    100172: Rim Logo003
+    100174: Rim004
+    100176: Rim005
+    100178: Rim006
+    100180: Roof
+    100182: Taillight Glasses
+    100184: Taillights
+    100186: Torus001
+    100188: Torus002
+    100190: Torus003
+    100192: Torus004
+    100194: Tube001
+    100196: Tube002
+    100198: Tube003
+    100200: Tube004
+    100202: Windows
+    100204: Particle View 001
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box013
+    400010: Box014
+    400012: Box015
+    400014: Box016
+    400016: Box018
+    400018: Box019
+    400020: Box020
+    400022: Box021
+    400024: Brake Disc
+    400026: Brake Disc001
+    400028: Brake Disc002
+    400030: Brake Disc003
+    400032: Caliper
+    400034: Caliper001
+    400036: Cylinder001
+    400038: Cylinder002
+    400040: Cylinder003
+    400042: Cylinder004
+    400044: Cylinder005
+    400046: Cylinder006
+    400048: Cylinder007
+    400050: Cylinder008
+    400052: Cylinder009
+    400054: Cylinder011
+    400056: Cylinder012
+    400058: Cylinder013
+    400060: Cylinder014
+    400062: Cylinder016
+    400064: Cylinder017
+    400066: Cylinder018
+    400068: Cylinder019
+    400070: Fog Lights
+    400072: Front Bumper
+    400074: Front Diffuser
+    400076: Front Fenders
+    400078: Front Grill
+    400080: Front Logo
+    400082: Front Sub Grills
+    400084: Fuel Cap
+    400086: Grills Back
+    400088: Group001
+    400090: Group004
+    400092: Group005
+    400094: Group006
+    400096: Headlight Glasses
+    400098: Headlight Interior_1
+    400100: Headlight Interior_2
+    400102: Hood
+    400104: //RootNode
+    400106: Line001
+    400108: Mudguards
+    400110: Object002
+    400112: Object003
+    400114: Object003_MeshPart0
+    400116: Object003_MeshPart1
+    400118: Object003_MeshPart2
+    400120: Object004
+    400122: Object009
+    400124: Object011
+    400126: Object012
+    400128: Object015
+    400130: Object016
+    400132: Object019
+    400134: Object020
+    400136: Object021
+    400138: Object023
+    400140: Object024
+    400142: Object030
+    400144: Object031
+    400146: Object032
+    400148: Object033
+    400150: Plane001
+    400152: Plane002
+    400154: Plane003
+    400156: Plane004
+    400158: Rear Bumper
+    400160: Rear Bumper Lights
+    400162: Rear Fenders
+    400164: Rim
+    400166: Rim Logo
+    400168: Rim Logo001
+    400170: Rim Logo002
+    400172: Rim Logo003
+    400174: Rim004
+    400176: Rim005
+    400178: Rim006
+    400180: Roof
+    400182: Taillight Glasses
+    400184: Taillights
+    400186: Torus001
+    400188: Torus002
+    400190: Torus003
+    400192: Torus004
+    400194: Tube001
+    400196: Tube002
+    400198: Tube003
+    400200: Tube004
+    400202: Windows
+    400204: Particle View 001
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box013
+    2300010: Box014
+    2300012: Box015
+    2300014: Box016
+    2300016: Box018
+    2300018: Box019
+    2300020: Box020
+    2300022: Box021
+    2300024: Brake Disc
+    2300026: Brake Disc001
+    2300028: Brake Disc002
+    2300030: Brake Disc003
+    2300032: Caliper
+    2300034: Caliper001
+    2300036: Cylinder001
+    2300038: Cylinder002
+    2300040: Cylinder003
+    2300042: Cylinder004
+    2300044: Cylinder005
+    2300046: Cylinder006
+    2300048: Cylinder007
+    2300050: Cylinder008
+    2300052: Cylinder009
+    2300054: Cylinder011
+    2300056: Cylinder012
+    2300058: Cylinder013
+    2300060: Cylinder014
+    2300062: Cylinder016
+    2300064: Cylinder017
+    2300066: Cylinder018
+    2300068: Cylinder019
+    2300070: Fog Lights
+    2300072: Front Bumper
+    2300074: Front Diffuser
+    2300076: Front Fenders
+    2300078: Front Grill
+    2300080: Front Logo
+    2300082: Front Sub Grills
+    2300084: Fuel Cap
+    2300086: Grills Back
+    2300088: Headlight Glasses
+    2300090: Headlight Interior_1
+    2300092: Headlight Interior_2
+    2300094: Hood
+    2300096: Line001
+    2300098: Mudguards
+    2300100: Object002
+    2300102: Object003_MeshPart0
+    2300104: Object003_MeshPart1
+    2300106: Object003_MeshPart2
+    2300108: Object004
+    2300110: Object009
+    2300112: Object011
+    2300114: Object012
+    2300116: Object015
+    2300118: Object016
+    2300120: Object020
+    2300122: Object021
+    2300124: Object023
+    2300126: Object024
+    2300128: Object030
+    2300130: Object031
+    2300132: Object032
+    2300134: Object033
+    2300136: Plane001
+    2300138: Plane002
+    2300140: Plane003
+    2300142: Plane004
+    2300144: Rear Bumper
+    2300146: Rear Bumper Lights
+    2300148: Rear Fenders
+    2300150: Rim
+    2300152: Rim Logo
+    2300154: Rim Logo001
+    2300156: Rim Logo002
+    2300158: Rim Logo003
+    2300160: Rim004
+    2300162: Rim005
+    2300164: Rim006
+    2300166: Roof
+    2300168: Taillight Glasses
+    2300170: Taillights
+    2300172: Torus001
+    2300174: Torus002
+    2300176: Torus003
+    2300178: Torus004
+    2300180: Tube001
+    2300182: Tube002
+    2300184: Tube003
+    2300186: Tube004
+    2300188: Windows
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box013
+    3300010: Box014
+    3300012: Box015
+    3300014: Box016
+    3300016: Box018
+    3300018: Box019
+    3300020: Box020
+    3300022: Box021
+    3300024: Brake Disc
+    3300026: Brake Disc001
+    3300028: Brake Disc002
+    3300030: Brake Disc003
+    3300032: Caliper
+    3300034: Caliper001
+    3300036: Cylinder001
+    3300038: Cylinder002
+    3300040: Cylinder003
+    3300042: Cylinder004
+    3300044: Cylinder005
+    3300046: Cylinder006
+    3300048: Cylinder007
+    3300050: Cylinder008
+    3300052: Cylinder009
+    3300054: Cylinder011
+    3300056: Cylinder012
+    3300058: Cylinder013
+    3300060: Cylinder014
+    3300062: Cylinder016
+    3300064: Cylinder017
+    3300066: Cylinder018
+    3300068: Cylinder019
+    3300070: Fog Lights
+    3300072: Front Bumper
+    3300074: Front Diffuser
+    3300076: Front Fenders
+    3300078: Front Grill
+    3300080: Front Logo
+    3300082: Front Sub Grills
+    3300084: Fuel Cap
+    3300086: Grills Back
+    3300088: Headlight Glasses
+    3300090: Headlight Interior_1
+    3300092: Headlight Interior_2
+    3300094: Hood
+    3300096: Line001
+    3300098: Mudguards
+    3300100: Object002
+    3300102: Object003_MeshPart0
+    3300104: Object003_MeshPart1
+    3300106: Object003_MeshPart2
+    3300108: Object004
+    3300110: Object009
+    3300112: Object011
+    3300114: Object012
+    3300116: Object015
+    3300118: Object016
+    3300120: Object020
+    3300122: Object021
+    3300124: Object023
+    3300126: Object024
+    3300128: Object030
+    3300130: Object031
+    3300132: Object032
+    3300134: Object033
+    3300136: Plane001
+    3300138: Plane002
+    3300140: Plane003
+    3300142: Plane004
+    3300144: Rear Bumper
+    3300146: Rear Bumper Lights
+    3300148: Rear Fenders
+    3300150: Rim
+    3300152: Rim Logo
+    3300154: Rim Logo001
+    3300156: Rim Logo002
+    3300158: Rim Logo003
+    3300160: Rim004
+    3300162: Rim005
+    3300164: Rim006
+    3300166: Roof
+    3300168: Taillight Glasses
+    3300170: Taillights
+    3300172: Torus001
+    3300174: Torus002
+    3300176: Torus003
+    3300178: Torus004
+    3300180: Tube001
+    3300182: Tube002
+    3300184: Tube003
+    3300186: Tube004
+    3300188: Windows
+    4300000: Front Grill
+    4300002: Fog Lights
+    4300004: Front Logo
+    4300006: Rear Bumper
+    4300008: Front Bumper
+    4300010: Grills Back
+    4300012: Hood
+    4300014: Front Fenders
+    4300016: Headlight Glasses
+    4300018: Headlight Interior_1
+    4300020: Headlight Interior_2
+    4300022: Roof
+    4300024: Rear Bumper Lights
+    4300026: Fuel Cap
+    4300028: Taillight Glasses
+    4300030: Taillights
+    4300032: Windows
+    4300034: Mudguards
+    4300036: Rear Fenders
+    4300038: Front Diffuser
+    4300040: Front Sub Grills
+    4300042: Object002
+    4300044: Object003_MeshPart0
+    4300046: Object003_MeshPart1
+    4300048: Object003_MeshPart2
+    4300050: Box001
+    4300052: Cylinder001
+    4300054: Cylinder002
+    4300056: Cylinder003
+    4300058: Plane001
+    4300060: Cylinder004
+    4300062: Cylinder005
+    4300064: Cylinder006
+    4300066: Cylinder007
+    4300068: Cylinder008
+    4300070: Cylinder009
+    4300072: Plane002
+    4300074: Cylinder011
+    4300076: Plane003
+    4300078: Box002
+    4300080: Plane004
+    4300082: Cylinder012
+    4300084: Cylinder013
+    4300086: Cylinder014
+    4300088: Box003
+    4300090: Box004
+    4300092: Object004
+    4300094: Object009
+    4300096: Box013
+    4300098: Box014
+    4300100: Torus001
+    4300102: Cylinder016
+    4300104: Cylinder017
+    4300106: Torus002
+    4300108: Torus003
+    4300110: Cylinder018
+    4300112: Torus004
+    4300114: Cylinder019
+    4300116: Object011
+    4300118: Object012
+    4300120: Object015
+    4300122: Box015
+    4300124: Object016
+    4300126: Box016
+    4300128: Box018
+    4300130: Caliper
+    4300132: Rim Logo
+    4300134: Brake Disc
+    4300136: Rim
+    4300138: Tube001
+    4300140: Object020
+    4300142: Box019
+    4300144: Object021
+    4300146: Object023
+    4300148: Tube004
+    4300150: Brake Disc003
+    4300152: Rim Logo003
+    4300154: Rim004
+    4300156: Rim006
+    4300158: Tube003
+    4300160: Rim Logo002
+    4300162: Brake Disc002
+    4300164: Tube002
+    4300166: Caliper001
+    4300168: Rim Logo001
+    4300170: Brake Disc001
+    4300172: Rim005
+    4300174: Object024
+    4300176: Box020
+    4300178: Object030
+    4300180: Box021
+    4300182: Line001
+    4300184: Object031
+    4300186: Object032
+    4300188: Object033
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

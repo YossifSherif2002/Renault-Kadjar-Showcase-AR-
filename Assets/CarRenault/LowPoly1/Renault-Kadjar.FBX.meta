@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 5510db6b03f3528418875ff5147b5a01
+timeCreated: 1456847306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: back left wheel
+    100004: back right wheel
+    100006: Brake Disc
+    100008: Brake Disc001
+    100010: Brake Disc002
+    100012: Brake Disc003
+    100014: Caliper
+    100016: Caliper001
+    100018: Doors
+    100020: Fog Lights
+    100022: Front Bumper
+    100024: Front Diffuser
+    100026: Front Fenders
+    100028: Front Grill
+    100030: Front left wheel
+    100032: Front Logo
+    100034: Front right wheel
+    100036: Front Sub Grills
+    100038: Fuel Cap
+    100040: Grills Back
+    100042: Group001
+    100044: Headlight Glasses
+    100046: Headlight Interior_1
+    100048: Headlight Interior_2
+    100050: Hood
+    100052: Interiors
+    100054: Line003
+    100056: Line004
+    100058: Line005
+    100060: Line006
+    100062: Mudguards
+    100064: Rear Bumper
+    100066: Rear Bumper Lights
+    100068: Rear Fenders
+    100070: Rear Logo
+    100072: //RootNode
+    100074: Rim Logo
+    100076: Rim Logo001
+    100078: Rim Logo002
+    100080: Rim Logo003
+    100082: Roof
+    100084: Seats
+    100086: Side Mirrors
+    100088: Side Skirts
+    100090: Side Window Frames
+    100092: Spoiler
+    100094: Stop Light
+    100096: Taillight Glasses
+    100098: Taillights
+    100100: Trunk Lid
+    100102: Tube001
+    100104: Tube002
+    100106: Tube003
+    100108: Tube004
+    100110: Wheel Nuts
+    100112: Wheel Nuts001
+    100114: Wheel Nuts002
+    100116: Wheel Nuts003
+    100118: Windows
+    100120: Wiper Blades
+    400000: Antenna
+    400002: back left wheel
+    400004: back right wheel
+    400006: Brake Disc
+    400008: Brake Disc001
+    400010: Brake Disc002
+    400012: Brake Disc003
+    400014: Caliper
+    400016: Caliper001
+    400018: Doors
+    400020: Fog Lights
+    400022: Front Bumper
+    400024: Front Diffuser
+    400026: Front Fenders
+    400028: Front Grill
+    400030: Front left wheel
+    400032: Front Logo
+    400034: Front right wheel
+    400036: Front Sub Grills
+    400038: Fuel Cap
+    400040: Grills Back
+    400042: Group001
+    400044: Headlight Glasses
+    400046: Headlight Interior_1
+    400048: Headlight Interior_2
+    400050: Hood
+    400052: Interiors
+    400054: Line003
+    400056: Line004
+    400058: Line005
+    400060: Line006
+    400062: Mudguards
+    400064: Rear Bumper
+    400066: Rear Bumper Lights
+    400068: Rear Fenders
+    400070: Rear Logo
+    400072: //RootNode
+    400074: Rim Logo
+    400076: Rim Logo001
+    400078: Rim Logo002
+    400080: Rim Logo003
+    400082: Roof
+    400084: Seats
+    400086: Side Mirrors
+    400088: Side Skirts
+    400090: Side Window Frames
+    400092: Spoiler
+    400094: Stop Light
+    400096: Taillight Glasses
+    400098: Taillights
+    400100: Trunk Lid
+    400102: Tube001
+    400104: Tube002
+    400106: Tube003
+    400108: Tube004
+    400110: Wheel Nuts
+    400112: Wheel Nuts001
+    400114: Wheel Nuts002
+    400116: Wheel Nuts003
+    400118: Windows
+    400120: Wiper Blades
+    2300000: Antenna
+    2300002: Brake Disc
+    2300004: Brake Disc001
+    2300006: Brake Disc002
+    2300008: Brake Disc003
+    2300010: Caliper
+    2300012: Caliper001
+    2300014: Doors
+    2300016: Fog Lights
+    2300018: Front Bumper
+    2300020: Front Diffuser
+    2300022: Front Fenders
+    2300024: Front Grill
+    2300026: Front Logo
+    2300028: Front Sub Grills
+    2300030: Fuel Cap
+    2300032: Grills Back
+    2300034: Headlight Glasses
+    2300036: Headlight Interior_1
+    2300038: Headlight Interior_2
+    2300040: Hood
+    2300042: Interiors
+    2300044: Line003
+    2300046: Line004
+    2300048: Line005
+    2300050: Line006
+    2300052: Mudguards
+    2300054: Rear Bumper
+    2300056: Rear Bumper Lights
+    2300058: Rear Fenders
+    2300060: Rear Logo
+    2300062: Rim Logo
+    2300064: Rim Logo001
+    2300066: Rim Logo002
+    2300068: Rim Logo003
+    2300070: Roof
+    2300072: Seats
+    2300074: Side Mirrors
+    2300076: Side Skirts
+    2300078: Side Window Frames
+    2300080: Spoiler
+    2300082: Stop Light
+    2300084: Taillight Glasses
+    2300086: Taillights
+    2300088: Trunk Lid
+    2300090: Tube001
+    2300092: Tube002
+    2300094: Tube003
+    2300096: Tube004
+    2300098: Wheel Nuts
+    2300100: Wheel Nuts001
+    2300102: Wheel Nuts002
+    2300104: Wheel Nuts003
+    2300106: Windows
+    2300108: Wiper Blades
+    3300000: Antenna
+    3300002: Brake Disc
+    3300004: Brake Disc001
+    3300006: Brake Disc002
+    3300008: Brake Disc003
+    3300010: Caliper
+    3300012: Caliper001
+    3300014: Doors
+    3300016: Fog Lights
+    3300018: Front Bumper
+    3300020: Front Diffuser
+    3300022: Front Fenders
+    3300024: Front Grill
+    3300026: Front Logo
+    3300028: Front Sub Grills
+    3300030: Fuel Cap
+    3300032: Grills Back
+    3300034: Headlight Glasses
+    3300036: Headlight Interior_1
+    3300038: Headlight Interior_2
+    3300040: Hood
+    3300042: Interiors
+    3300044: Line003
+    3300046: Line004
+    3300048: Line005
+    3300050: Line006
+    3300052: Mudguards
+    3300054: Rear Bumper
+    3300056: Rear Bumper Lights
+    3300058: Rear Fenders
+    3300060: Rear Logo
+    3300062: Rim Logo
+    3300064: Rim Logo001
+    3300066: Rim Logo002
+    3300068: Rim Logo003
+    3300070: Roof
+    3300072: Seats
+    3300074: Side Mirrors
+    3300076: Side Skirts
+    3300078: Side Window Frames
+    3300080: Spoiler
+    3300082: Stop Light
+    3300084: Taillight Glasses
+    3300086: Taillights
+    3300088: Trunk Lid
+    3300090: Tube001
+    3300092: Tube002
+    3300094: Tube003
+    3300096: Tube004
+    3300098: Wheel Nuts
+    3300100: Wheel Nuts001
+    3300102: Wheel Nuts002
+    3300104: Wheel Nuts003
+    3300106: Windows
+    3300108: Wiper Blades
+    4300000: Side Skirts
+    4300002: Front Grill
+    4300004: Fog Lights
+    4300006: Front Logo
+    4300008: Rear Bumper
+    4300010: Spoiler
+    4300012: Front Bumper
+    4300014: Grills Back
+    4300016: Hood
+    4300018: Front Fenders
+    4300020: Headlight Glasses
+    4300022: Headlight Interior_1
+    4300024: Headlight Interior_2
+    4300026: Roof
+    4300028: Rear Logo
+    4300030: Rear Bumper Lights
+    4300032: Stop Light
+    4300034: Trunk Lid
+    4300036: Fuel Cap
+    4300038: Taillight Glasses
+    4300040: Taillights
+    4300042: Windows
+    4300044: Mudguards
+    4300046: Side Mirrors
+    4300048: Rear Fenders
+    4300050: Interiors
+    4300052: Side Window Frames
+    4300054: Seats
+    4300056: Doors
+    4300058: Wiper Blades
+    4300060: Antenna
+    4300062: Front Diffuser
+    4300064: Front Sub Grills
+    4300066: Rim Logo
+    4300068: Brake Disc
+    4300070: Wheel Nuts
+    4300072: Line003
+    4300074: Caliper
+    4300076: Tube001
+    4300078: Rim Logo003
+    4300080: Line006
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
